@@ -14,7 +14,7 @@ header:
 ---
 
 <section style="text-align:center;">
-  <img src="/assets/images/profile.png" alt="Aster photo" style="border-radius: 50%; max-width: 200px;" />
+  <img src="/assets/images/photo.png" alt="Aster photo" style="border-radius: 50%; max-width: 200px;" />
   <h2>Hello, I'm Aster 👋</h2>
   <p>I'm passionate about environmental simulation, data visualization, and sustainable design.</p>
 </section>
