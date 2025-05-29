@@ -1,19 +1,39 @@
 ---
-layout: home
-title: "ようこそ、Asterの模擬ポートフォリオへ"
-excerpt: "建築シミュレーション × 大気科学 × サステナブルデザイン"
+layout: splash
+title: "Hi! I'm Aster"
+subtitle: "Architecture × Climate × Building Simulation"
 header:
-  overlay_image: /assets/images/9-3.jpg
-  overlay_filter: 0.3
+  overlay_color: "#ffffff"
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.2
   caption: "📷 Photo by Aster"
+excerpt: "I visualize the invisible — merging data, climate, and design 🌱"
+intro:
+  - excerpt: >
+      🌟 Atmospheric science student passionate about sustainable architecture and environmental simulation. 
+      Experienced in EnergyPlus, Ladybug Tools, and data visualization.
 ---
 
-🌱 ここは、私が建築・環境・大気をテーマに学んできた  
-シミュレーションやプロジェクトの記録をまとめた空間です。
+<div class="feature__wrapper">
 
-学習ノート、作品、実験記録などを通じて、  
-「見えないものを可視化する」旅を続けています。
----
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-title">🌤️ Portfolio</div>
+      <div class="archive__item-excerpt">Projects on architectural simulation, climate data, and energy analysis.</div>
+      <a href="/portfolio/" class="btn btn--primary">View</a>
+    </div>
+  </div>
 
-📁 [作品集へ](/portfolio/) ｜ 💼 [私について](/about/) ｜ 📬 [ご連絡はこちら](/contact/)
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-title">📓 Learning Notes</div>
+      <div class="archive__item-excerpt">Personal notes on Ladybug, CFD, daylighting, and environmental control.</div>
+      <a href="/notes/" class="btn btn--primary">Read</a>
+    </div>
+  </div>
 
+</div>
+
+### 🎯 Skill Highlights
+
+![My Skills](/assets/images/skills.png)
