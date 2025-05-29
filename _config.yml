@@ -105,3 +105,13 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Navigation（ナビゲーション）
+nav:
+  - title: "ホーム"
+    url: /
+  - title: "プロフィール"
+    url: /about/
+  - title: "ポートフォリオ"
+    url: /portfolio/
+  - title: "お問い合わせ"
+    url: /contact/
