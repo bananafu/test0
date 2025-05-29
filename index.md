@@ -5,7 +5,7 @@ excerpt: "Building Simulation × Environmental Design × Atmospheric Science"
 header:
   overlay_color: "#fff"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/9-3.jpg
   actions:
     - label: "Contact Me"
       url: "/contact/"
@@ -25,15 +25,15 @@ header:
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem;">
   <div style="text-align:center;">
-    <img src="/assets/images/icon-energyplus.png" style="height:50px;" />
+    <img src="/assets/images/energy plus.jpg" style="height:50px;" />
     <p>EnergyPlus</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/icon-ladybug.png" style="height:50px;" />
+    <img src="/assets/images/ladybugs tool.jpg" style="height:50px;" />
     <p>Ladybug Tools</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/icon-cfd.png" style="height:50px;" />
+    <img src="/assets/images/CFD.jpg" style="height:50px;" />
     <p>CFD</p>
   </div>
 </div>
