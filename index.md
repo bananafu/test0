@@ -14,7 +14,7 @@ header:
 ---
 
 <section style="text-align:center;">
-  <img src="/assets/images/photo.png" alt="Aster photo" style="border-radius: 50%; max-width: 200px;" />
+  <img src="{{ '/assets/images/photo.jpg' | relative_url }}" alt="Aster photo" style="border-radius: 50%; max-width: 200px;" />
   <h2>Hello, I'm Aster 👋</h2>
   <p>I'm passionate about environmental simulation, data visualization, and sustainable design.</p>
 </section>
@@ -25,15 +25,15 @@ header:
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem;">
   <div style="text-align:center;">
-    <img src="/assets/images/energyplus.png" style="height:50px;" />
+    <img src="{{ '/assets/images/energyplus.png' | relative_url }}" alt="EnergyPlus logo" style="height:50px;" />
     <p>EnergyPlus</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/ladybug.png" style="height:50px;" />
+    <img src="{{ '/assets/images/ladybug.png' | relative_url }}" alt="Ladybugs tool logo" style="height:50px;" />
     <p>Ladybug Tools</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/cfd.png" style="height:50px;" />
+    <img src="{{ '/assets/images/cfd.png' | relative_url }}" alt="CFD logo" style="height:50px;" />
     <p>CFD</p>
   </div>
 </div>
