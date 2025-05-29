@@ -110,8 +110,8 @@ nav:
   - title: "ホーム"
     url: /
   - title: "プロフィール"
-    url: /about/
+    url: "{{ '/about/' | relative_url }}"
   - title: "ポートフォリオ"
-    url: /portfolio/
+    url: "{{ '/portfolio/' | relative_url }}"
   - title: "お問い合わせ"
-    url: /contact/
+    url: "{{ '/contact/' | relative_url }}"
