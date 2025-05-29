@@ -19,6 +19,8 @@ description: >-
   建築シミュレーション × 大気科学 × サステナブル建築設計｜学びと作品の記録
 github_username: bananafu
 minimal_mistakes_skin: aqua
+custom_css:
+  - "/assets/css/custom.css"
 search: true
 
 # Build settings
