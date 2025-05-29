@@ -33,7 +33,7 @@ header:
     <p>Ladybug Tools</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/CFD.png" style="height:50px;" />
+    <img src="/assets/images/cfd.png" style="height:50px;" />
     <p>CFD</p>
   </div>
 </div>
