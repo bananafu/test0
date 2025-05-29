@@ -1,8 +1,28 @@
 ---
+layout: single
+title: "プロフィール"
 permalink: /about/
-title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+はじめまして、Asterです。  
+台湾の大学で大気科学を専攻しながら、  
+建築環境シミュレーションや持続可能なデザインに関心を持ち、学びを深めています。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+---
+
+🎯 現在の目標：
+- 🌏 日本の大学への交換留学・大学院受験に向けて準備中
+- 🔧 エネルギー・気候・空間に関するシミュレーションの実践
+- 🧠 中日英3言語での表現と発信スキルの向上
+
+---
+
+📚 このサイトでは：
+- 自作の建築・環境シミュレーション作品
+- 学習ノートや可視化実験
+- 緑建築や室内環境に関する記録
+
+を発信していきます。
+
+どうぞよろしくお願いいたします ☺️
