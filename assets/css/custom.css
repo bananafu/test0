@@ -9,9 +9,9 @@
 
 /* 主要字型設定（Google Fonts 可搭配使用） */
 body {
-  font-family: 'Noto Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', sans-serif !important;
   background-color: var(--background-color) !important;
-  color: var(--text-color);
+  color: var(--text-color) !important;
 }
 
 /* 🧁 標題字體微圓潤活潑 */
