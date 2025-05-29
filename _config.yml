@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Aster Fu Portfolio
 email: youtzor128@gmail.com
-description: >- 建築模擬 × 大氣科學 × 綠建築設計｜我的學習與作品紀錄
+description: >-
+  建築模擬 × 大氣科學 × 綠建築設計｜我的學習與作品紀錄
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
