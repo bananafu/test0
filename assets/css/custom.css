@@ -1,0 +1,75 @@
+/* === Aster Fu Portfolio Custom Styles === */
+
+/* 🌼 全站主色調（黃色） */
+:root {
+  --main-color: #F6C943;
+  --text-color: #333;
+  --bg-color: #fffdf7;
+}
+
+/* 主要字型設定（Google Fonts 可搭配使用） */
+body {
+  font-family: 'Noto Sans', 'Helvetica Neue', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* 🧁 標題字體微圓潤活潑 */
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+/* 🌟 封面區按鈕設計 */
+.page__hero--overlay .btn {
+  background-color: var(--main-color);
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+.page__hero--overlay .btn:hover {
+  background-color: #e4b12d;
+}
+
+/* 🌸 卡片樣式 */
+.card {
+  background-color: #ffffffdd;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* 🍃 頭像圓形設定 */
+img[alt~="Aster"] {
+  border-radius: 50%;
+  border: 4px solid var(--main-color);
+}
+
+/* 🎨 頁面段落加點留白 */
+section, .page__content {
+  margin-bottom: 2.5rem;
+}
+
+/* 🔗 鏈接顏色 */
+a {
+  color: var(--main-color);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* 📱 手機畫面優化 */
+@media screen and (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+}
