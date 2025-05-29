@@ -17,10 +17,6 @@ title: Aster Fu Portfolio
 email: youtzor128@gmail.com
 description: >-
   建築シミュレーション × 大気科学 × サステナブル建築設計｜学びと作品の記録
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-Instagram_username: fu_asteroid03
 github_username: bananafu
 minimal_mistakes_skin: default
 search: true
@@ -70,7 +66,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:your@email.com"
-    
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/fu_asteroid03"
 
 footer:
   links:
