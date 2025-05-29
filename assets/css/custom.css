@@ -10,7 +10,7 @@
 /* 主要字型設定（Google Fonts 可搭配使用） */
 body {
   font-family: 'Noto Sans', 'Helvetica Neue', sans-serif !important;
-  background-color: var(--background-color) !important;
+  background-color: var(--bg-color) !important;
   color: var(--text-color) !important;
 }
 
