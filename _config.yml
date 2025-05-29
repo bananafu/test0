@@ -23,12 +23,11 @@ custom_css:
   - "{{ '/assets/css/custom.css' | relative_url }}"
 search: true
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
+
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 timezone: Asia/Taipei
 baseurl: "/test0"
@@ -36,19 +35,6 @@ baseurl: "/test0"
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -79,7 +65,6 @@ footer:
       url: "https://github.com/bananafu"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -90,7 +75,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -105,7 +89,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# Navigation（ナビゲーション）
 nav:
   - title: "ホーム"
     url: /
