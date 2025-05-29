@@ -3,7 +3,7 @@ layout: home
 title: "ようこそ、Asterの模擬ポートフォリオへ"
 excerpt: "建築シミュレーション × 大気科学 × サステナブルデザイン"
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/9-3.jpg
   overlay_filter: 0.3
   caption: "📷 Photo by Aster"
 ---
