@@ -25,15 +25,15 @@ header:
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem;">
   <div style="text-align:center;">
-    <img src="/assets/images/energy plus.jpg" style="height:50px;" />
+    <img src="/assets/images/energyplus.png" style="height:50px;" />
     <p>EnergyPlus</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/ladybugs tool.jpg" style="height:50px;" />
+    <img src="/assets/images/ladybug.png" style="height:50px;" />
     <p>Ladybug Tools</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/CFD.jpg" style="height:50px;" />
+    <img src="/assets/images/CFD.png" style="height:50px;" />
     <p>CFD</p>
   </div>
 </div>
