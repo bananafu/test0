@@ -13,14 +13,7 @@ header:
 
 学習ノート、作品、実験記録などを通じて、  
 「見えないものを可視化する」旅を続けています。
-
 ---
 
-### 🌿 最近の更新
-{% for post in site.posts limit:3 %}
-- 📌 [{{ post.title }}]({{ post.url }}) – {{ post.date | date: "%Y/%m/%d" }}
-{% endfor %}
+📁 [作品集へ](/portfolio/) ｜ 💼 [私について](/about/) ｜ 📬 [ご連絡はこちら](/contact/)
 
----
-
-📬 [お問い合わせ](/contact/) ｜ 💼 [プロフィール](/about/)
