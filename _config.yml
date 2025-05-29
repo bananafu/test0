@@ -16,7 +16,7 @@
 title: Aster Fu Portfolio
 email: youtzor128@gmail.com
 description: >-
-  建築模擬 × 大氣科學 × 綠建築設計｜我的學習與作品紀錄
+  建築シミュレーション × 大気科学 × サステナブル建築設計｜学びと作品の記録
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Aster Fu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "喜歡模擬與跨領域整合的學習者 🌱"
+ bio: "シミュレーションと分野横断の学びが好きな探究者 🌱"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
