@@ -1,7 +1,7 @@
 ---
-layout: home
-title: "Test Page"
-permalink: /
+layout: default
+title: Home
 ---
 
-This is a test. If you see this text, the site is working.
+<h1>Hello, world!</h1>
+<p>This is a test page.</p>
