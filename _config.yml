@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Aster Fu"
   avatar : "/assets/images/photo.jpg"
- bio: "シミュレーションと分野横断の学びが好きな探究者 🌱"
+  bio: "シミュレーションと分野横断の学びが好きな探究者 🌱"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
